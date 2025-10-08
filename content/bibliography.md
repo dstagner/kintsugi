@@ -1,8 +1,8 @@
-———
+---
 date = 2025-10-07
 draft = false
-title = ‘Bibliography’
-———
+title = ‘MET Bibliography’
+---
 
 # MET bibliography and recommended reading
 
