@@ -1,3 +1,6 @@
+---
+title: Daedalus and Icarus
+---
 # Daedalus and Icarus
 
 > Has mankind released from the womb of matter a Demogorgon which is already beginning to turn against him, and may at any moment hurl him into the bottomless void? Or is Samuel Butler’s even more horrible vision correct, in which man becomes a mere parasite of machinery, an appendage to the reproductive system of huge and complicated engines which will successively usurp his activities, and end by ousting him from the mastery of this planet? Is the machine-minder engaged on repetition-work the goal and ideal to which humanity is tending?

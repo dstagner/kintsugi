@@ -1,3 +1,7 @@
+---
+title: Remediation
+---
+
 # Remediation
 
 > Survival is insufficient.

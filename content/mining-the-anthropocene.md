@@ -1,3 +1,7 @@
+---
+title: Mining the Anthropocene
+---
+
 # Mining the Anthropocene
 
 In 1856, Henry Bessemer first demonstrated his modern process for making steel from pig iron. By 1858, his first steel mill was operating in Sheffield, England. In 1865, the first Bessemer-style steel mill started in the US, based on a patent by William Kelly. Steel became one of the “Big Three” materials of modern industrialism, along with Portland cement (concrete), and plastics. Billions of tons of steel have been produced. And most of it gets recycled.
