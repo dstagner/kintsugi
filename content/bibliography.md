@@ -1,5 +1,5 @@
 ---
-title: ‘MET Bibliography’
+title: MET Bibliography
 ---
 
 # MET bibliography and recommended reading
