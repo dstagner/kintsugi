@@ -1,4 +1,6 @@
-# Timeframes
+---
+title: Timeframes
+---
 
 I find it useful to think of time in two order of magnitude chunks. 
 

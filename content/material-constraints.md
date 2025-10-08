@@ -1,5 +1,25 @@
+---
+title: Materials and Their Constraints
+---
 
-# Materials and constraints
+There’s a tendency in the literature to lump all materials and energy together as “resources”. *Limits of Growth* is a prime example. But different categories of materials have very different behaviors and constraints. Making distinctions is necessary for sorting out the potential for true abundance from false abundance.
+
+## Metals
+Metals can and likely will be true abundance. Metals are fully recyclable, durable and non-perishable, and there is an upper bound to the per-capita needs of any given metal. Moreover, recycled metals are less expensive than newly mined metals, so there’s a strong incentive to recycle. 
+
+Together, this suggests that at some point, we will have mined *enough* of each metal, and demand will be sourced almost entirely from a circular recycling flow. 
+
+## Biomass
+The “circle of life” is naturally a circular flow. Plants grow by consuming CO2 and H2O, transforming them into organic molecules via photosynthesis. Animals eat plants or other animals to produce more organic molecules, and fungi and other kingdoms participate in the flow as well. And, which each plant or animal dies, their remains are decomposed back into CO2 and H2O. So biomass is, naturally, a true abundance. 
+
+But we don’t just want “biomass”. We want oak wood, or hamburger, or other specific kinds, which are regionally limited. By agriculture, we create additional desirable biomass, and suppress unwanted kinds of biomass. In extreme cases, this can lead to extinctions. And given the intensity with which we have converted land to agriculture, the whole world is now an extreme case.
+
+## Fresh Water
+
+## Fossil hydrocarbons
+
+## Land
+
 
 | M Category                   | Physical Behavior                                                                                            | Constraint Type                                               | Scarcity→Abundance Path                                                           | True Abundance Possible?                                                                       | Key MET Dynamics                                                                        |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
