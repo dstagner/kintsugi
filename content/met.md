@@ -16,7 +16,7 @@ Materials is a broad and complex concept. In the historic literature of similar 
 
 ## Energy
 
-Energy is much more simple. It has a limited number of forms - electricity, heat, magnetism, chemical bonds, gravity, etc. Many of these are easily exchanged for other forms. For example, light energy can be easily converted into electrical energy, and electrical energy can be easily converted into light. So energy operates under very different constrains than materials.
+Energy is much more simple. It has a limited number of forms - electricity, heat, magnetism, chemical bonds, gravity, etc. Many of these are easily exchanged for other forms. For example, light energy can be easily converted into electrical energy (solar panels), and electrical energy can be easily converted into light (light bulbs). So energy operates under very different constraints than materials.
 
 ## Technics
 

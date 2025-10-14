@@ -13,6 +13,6 @@ Kintsugi is a Japanese art form for repairing broken pottery. The adhesive used 
 
 What we choose to do this year, this decade, this century, will have repercussions that could impact human civilization for thousands or even millions of years. Not in a chaos theory “butterfly flapping its wings in China” sense, but in concrete and predictable ways. 
 
-## Materials, Energy, Technics
+## [[Materials, Energy, Technics]]
 
 The physical world in which we live is made of materials. Humans shape those materials by applying energy, under direction of technics. 
