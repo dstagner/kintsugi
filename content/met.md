@@ -1,5 +1,5 @@
 ---
-title: “MET: Materials, Energy, Technics”
+title: “MET - Materials, Energy, Technics”
 ---
 
 MET (Materials, Energy, Technics) is a framework for understanding the physical basis of human civilization. It is a framework for understanding the interactions, relationships, and feedback loops between these three factors. Our physical civilization is made of materials, shaped by energy, guided by technics. 
